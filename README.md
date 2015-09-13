@@ -5,7 +5,7 @@
 # Read [this](http://rogerdudler.github.io/git-guide/) if you're unfamiliar with git
 
 # Once you've set git up on your machine, clone this repo with
-'git clone git@github.com:UCLCS/Hello-World.git'
+<git clone git@github.com:UCLCS/Hello-World.git>
 
 # and add the BitBucket source too (assuming you're logged in there too)
-'git remote set-url origin --add git@bitbucket.org:UCLCS/hello-world.git'
+<git remote set-url origin --add git@bitbucket.org:UCLCS/hello-world.git>
